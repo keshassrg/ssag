@@ -1,7 +1,16 @@
 {
-  "GRANDE": [
+  "ARIANA": [
     {
-      "AG7": "ES_01"
+      "GRANDE_1": "ES_01",
+       "GRANDE_2": "ES_01",
+       "GRANDE_3": "ES_01",
+       "GRANDE_4": "ES_01",
+       "GRANDE_5": "ES_01",
+       "GRANDE_6": "ES_01",
+       "GRANDE_7": "ES_01",
+       "GRANDE_8": "ES_01",
+       "GRANDE_9": "ES_01",
+       "GRANDE_10": "ES_01"
     }
   ]
 }
