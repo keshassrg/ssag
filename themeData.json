@@ -11,6 +11,30 @@
       "img_va": "https://superstararianagrande7.sirv.com/resources/live/2024/240520/20240406_155021/3.png?format=original",
       "img_vs": "https://superstararianagrande7.sirv.com/resources/live/2024/240520/20240406_155021/2.png?format=original",
       "img_vr": "https://superstararianagrande7.sirv.com/resources/live/2024/240520/20240406_155021/1.png?format=original",
+      "name": "Ariana Grande",
+      "era": "eternal sunshine",
+      "theme": "yes, and?",
+      "pool": "AG7_01V;AG7_01D;AGV01_R",
+      "c_min": 0,
+      "c_max": 10,
+       "b_min": 15,
+      "b_max": 30,
+       "a_min": 45,
+      "a_max": 60,
+       "s_min": 70,
+      "s_max": 90,
+       "r_min": 100,
+      "r_max": 200,
+      "c_color": "FFFFFF",
+       "b_color": "ed2230",
+       "a_color": "cbb6ff",
+       "s_color": "fcc300",
+       "r_color": "ffbe54"
+    }
+  ],
+
+  "AG7_01D": [
+    {
       "dc": "<:grade_C:1171195686209978398> **Ariana Grande Dance** yes, and?",
       "db": "<:grade_B:1171195683894722601> **Ariana Grande Dance** yes, and?",
       "da": "<:grade_A:1171197331538980874> **Ariana Grande Dance** yes, and?",
@@ -21,6 +45,30 @@
       "img_da": "https://superstararianagrande7.sirv.com/resources/live/2024/240520/20240406_155021/8.png?format=original",
       "img_ds": "https://superstararianagrande7.sirv.com/resources/live/2024/240520/20240406_155021/7.png?format=original",
       "img_dr": "https://superstararianagrande7.sirv.com/resources/live/2024/240520/20240406_155021/6.png?format=original",
+      "name": "Ariana Grande",
+      "era": "eternal sunshine",
+      "theme": "yes, and?",
+      "pool": "AG7_01V;AG7_01D;AGV01_R",
+      "c_min": 0,
+      "c_max": 10,
+       "b_min": 15,
+      "b_max": 30,
+       "a_min": 45,
+      "a_max": 60,
+       "s_min": 70,
+      "s_max": 90,
+       "r_min": 100,
+      "r_max": 200,
+      "c_color": "FFFFFF",
+       "b_color": "ed2230",
+       "a_color": "cbb6ff",
+       "s_color": "fcc300",
+       "r_color": "ffbe54"
+    }
+  ],
+
+  "AG7_01R": [
+    {
       "rc": "<:grade_C:1171195686209978398> **Ariana Grande Rhythm** yes, and?",
       "rb": "<:grade_B:1171195683894722601> **Ariana Grande Rhythm** yes, and?",
       "ra": "<:grade_A:1171197331538980874> **Ariana Grande Rhythm** yes, and?",
