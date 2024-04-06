@@ -1,16 +1,16 @@
 {
   "ARIANA": [
     {
-      "GRANDE_1": "AG7_01",
-       "GRANDE_2": "AG7_01",
-       "GRANDE_3": "AG7_01",
-       "GRANDE_4": "AG7_01",
-       "GRANDE_5": "AG7_01",
-       "GRANDE_6": "AG7_01",
-       "GRANDE_7": "AG7_01",
-       "GRANDE_8": "AG7_01",
-       "GRANDE_9": "AG7_01",
-       "GRANDE_10": "AG7_01"
+      "GRANDE_1": "AG7_01V;AG7_01D;AG7_01R",
+       "GRANDE_2": "AG7_01V;AG7_01D;AG7_01R",
+       "GRANDE_3": "AG7_01V;AG7_01D;AG7_01R",
+       "GRANDE_4": "AG7_01V;AG7_01D;AG7_01R",
+       "GRANDE_5": "AG7_01V;AG7_01D;AG7_01R",
+       "GRANDE_6": "AG7_01V;AG7_01D;AG7_01R",
+       "GRANDE_7": "AG7_01V;AG7_01D;AG7_01R",
+       "GRANDE_8": "AG7_01V;AG7_01D;AG7_01R",
+       "GRANDE_9": "AG7_01V;AG7_01D;AG7_01R",
+       "GRANDE_10": "AG7_01V;AG7_01D;AG7_01R"
     }
   ]
 }
