@@ -1,0 +1,34 @@
+{
+  "Yours Truly": [
+    {
+      "song": "Honeymoon Avenue;Baby I;Right There;Lovin' It;Piano;Daydreamin';The Way;You'll Never Know;Almost Is Never Enough;Popular Song;Better Left Unsaid",
+      "img": "https://cdn.discordapp.com/attachments/1222409901653889075/1226410632270712913/Untitled123_20240407135743.png",
+      "reward": "AG1_01V;AG1_01D_AG2_01R",
+      "reward_rp": "247;667"
+    }
+  ],
+  "My Everything": [
+    {
+      "song": "Problem;One Last Time;Why Try;Break Free;Best Mistake;Be My Baby;Break Your Heart Right Back;Love Me Harder;Just A Little Bit Of Your Heart;Hands On Me;My Everything;Bang Bang; Only 1; You Don't Know Me",
+      "img": "https://cdn.discordapp.com/attachments/1222409901653889075/1226411784001556501/Untitled123_20240407140222.png",
+      "reward": "AG2_01V;AG2_01D_AG2_01R",
+      "reward_rp": "500;1000"
+    }
+  ],
+  "Dangerous Woman": [
+    {
+      "song": "Moonlight;Dangerous Woman;Be Alright;Into You;Side To Side;Let Me Love You;Greedy;Leave Me Lonely;Everyday;Sometimes;I Don't Care;Bad Decisions;Touch It",
+      "img": "https://cdn.discordapp.com/attachments/1222409901653889075/1226412339088326717/Untitled123_20240407140438.png",
+      "reward": "AG3_01V;AG3_01D_AG3_01R",
+      "reward_rp": "2033;2500"
+    }
+  ],
+   "Sweetener": [
+    {
+      "song": "raindrops;blazed;the light is coming;R.E.M;God is a woman;sweetener;successful;everytime;breathin';no tears left to cry;borderline;better off; goodnight n go;pete davidson;get well soon",
+      "img": "https://cdn.discordapp.com/attachments/1222409901653889075/1226412339088326717/Untitled123_20240407140438.png",
+      "reward": "AG4_01V;AG4_01D_AG4_01R;AG4_02V;AG4_02D_AG4_02R;AG4_03V;AG4_03D_AG4_03R;AG4_04V;AG4_04D_AG4_04R;AG4_05V;AG4_05D_AG4_05R;AG4_06V;AG4_06D_AG4_06R",
+      "reward_rp": "2033;2500"
+    }
+  ]
+}
