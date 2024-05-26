@@ -193,5 +193,1183 @@
             "min": "100",
             "max": "200"
         }
+    ],
+"AG7_02V_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Ariana Grande Vocal** eternal sunshine",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_R:1171195690521743360> eternal sunshine",
+            "era": "eternal sunshine",
+            "guess": "e _ _ _ n _ _  _ u _ _ _ i _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240509_114652/1.png?format=original",
+            "song": "eternal sunshine",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AG7_02V_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Ariana Grande Vocal** eternal sunshine",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_S:1171197327185285201> eternal sunshine",
+            "era": "eternal sunshine",
+            "guess": "e _ _ _ n _ _  _ u _ _ _ i _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240509_114652/2.png?format=original",
+            "song": "eternal sunshine",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AG7_02V_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Ariana Grande Vocal** eternal sunshine",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_A:1171197331538980874> eternal sunshine",
+            "era": "eternal sunshine",
+            "guess": "e _ _ _ n _ _  _ u _ _ _ i _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240509_114652/3.png?format=original",
+            "song": "eternal sunshine",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AG7_02V_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Ariana Grande Vocal** eternal sunshine",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_B:1171195683894722601> eternal sunshine",
+            "era": "eternal sunshine",
+            "guess": "e _ _ _ n _ _  _ u _ _ _ i _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240509_114652/4.png?format=original",
+            "song": "eternal sunshine",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AG7_02V_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Ariana Grande Vocal** eternal sunshine",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_C:1171195686209978398> eternal sunshine",
+            "era": "eternal sunshine",
+            "guess": "e _ _ _ n _ _  _ u _ _ _ i _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240509_114652/5.png?format=original",
+            "song": "eternal sunshine",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+    "AG7_02D_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Ariana Grande Dance** eternal sunshine",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_R:1171195690521743360> eternal sunshine",
+            "era": "eternal sunshine",
+            "guess": "e _ _ _ n _ _  _ u _ _ _ i _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240509_114652/6.png?format=original",
+            "song": "eternal sunshine",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AG7_02D_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Ariana Grande Dance** eternal sunshine",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_S:1171197327185285201> eternal sunshine",
+            "era": "eternal sunshine",
+            "guess": "e _ _ _ n _ _  _ u _ _ _ i _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240509_114652/7.png?format=original",
+            "song": "eternal sunshine",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AG7_02D_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Ariana Grande Dance** eternal sunshine",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_A:1171197331538980874> eternal sunshine",
+            "era": "eternal sunshine",
+            "guess": "e _ _ _ n _ _  _ u _ _ _ i _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240509_114652/8.png?format=original",
+            "song": "eternal sunshine",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AG7_02D_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Ariana Grande Dance** eternal sunshine",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_B:1171195683894722601> eternal sunshine",
+            "era": "eternal sunshine",
+            "guess": "e _ _ _ n _ _  _ u _ _ _ i _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240509_114652/9.png?format=original",
+            "song": "eternal sunshine",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AG7_02D_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Ariana Grande Dance** eternal sunshine",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_C:1171195686209978398> eternal sunshine",
+            "era": "eternal sunshine",
+            "guess": "e _ _ _ n _ _  _ u _ _ _ i _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240509_114652/10.png?format=original",
+            "song": "eternal sunshine",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+    "AG7_02R_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Ariana Grande Rhythm** eternal sunshine",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_R:1171195690521743360> eternal sunshine",
+            "era": "eternal sunshine",
+            "guess": "e _ _ _ n _ _  _ u _ _ _ i _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240509_114652/11.png?format=original",
+            "song": "eternal sunshine",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AG7_02R_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Ariana Grande Rhythm** eternal sunshine",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_S:1171197327185285201> eternal sunshine",
+            "era": "eternal sunshine",
+            "guess": "e _ _ _ n _ _  _ u _ _ _ i _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240509_114652/12.png?format=original",
+            "song": "eternal sunshine",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AG7_02R_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Ariana Grande Rhythm** eternal sunshine",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_A:1171197331538980874> eternal sunshine",
+            "era": "eternal sunshine",
+            "guess": "e _ _ _ n _ _  _ u _ _ _ i _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240509_114652/13.png?format=original",
+            "song": "eternal sunshine",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AG7_02R_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Ariana Grande Rhythm** eternal sunshine",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_B:1171195683894722601> eternal sunshine",
+            "era": "eternal sunshine",
+            "guess": "e _ _ _ n _ _  _ u _ _ _ i _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240509_114652/14.png?format=original",
+            "song": "eternal sunshine",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AG7_02R_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Ariana Grande Rhythm** eternal sunshine",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_C:1171195686209978398> eternal sunshine",
+            "era": "eternal sunshine",
+            "guess": "e _ _ _ n _ _  _ u _ _ _ i _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240509_114652/15.png?format=original",
+            "song": "eternal sunshine",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "AG7_03V_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Ariana Grande Vocal** yes, and?",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_R:1171195690521743360> yes, and?",
+            "era": "yes, and?",
+            "guess": "y _ _, _ _ d?",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2034/20340601/20340509_114652/1.png?format=original",
+            "song": "yes, and?",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AG7_03V_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Ariana Grande Vocal** yes, and?",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_S:1171197327185285201> yes, and?",
+            "era": "yes, and?",
+            "guess": "y _ _, _ _ d?",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2034/20340601/20340509_114652/2.png?format=original",
+            "song": "yes, and?",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AG7_03V_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Ariana Grande Vocal** yes, and?",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_A:1171197331538980874> yes, and?",
+            "era": "yes, and?",
+            "guess": "y _ _, _ _ d?",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2034/20340601/20340509_114652/3.png?format=original",
+            "song": "yes, and?",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AG7_03V_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Ariana Grande Vocal** yes, and?",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_B:1171195683894722601> yes, and?",
+            "era": "yes, and?",
+            "guess": "y _ _, _ _ d?",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2034/20340601/20340509_114652/4.png?format=original",
+            "song": "yes, and?",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AG7_03V_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Ariana Grande Vocal** yes, and?",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_C:1171195686209978398> yes, and?",
+            "era": "yes, and?",
+            "guess": "y _ _, _ _ d?",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2034/20340601/20340509_114652/5.png?format=original",
+            "song": "yes, and?",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+    "AG7_03D_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Ariana Grande Dance** yes, and?",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_R:1171195690521743360> yes, and?",
+            "era": "yes, and?",
+            "guess": "y _ _, _ _ d?",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2034/20340601/20340509_114652/6.png?format=original",
+            "song": "yes, and?",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AG7_03D_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Ariana Grande Dance** yes, and?",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_S:1171197327185285201> yes, and?",
+            "era": "yes, and?",
+            "guess": "y _ _, _ _ d?",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2034/20340601/20340509_114652/7.png?format=original",
+            "song": "yes, and?",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AG7_03D_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Ariana Grande Dance** yes, and?",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_A:1171197331538980874> yes, and?",
+            "era": "yes, and?",
+            "guess": "y _ _, _ _ d?",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2034/20340601/20340509_114652/8.png?format=original",
+            "song": "yes, and?",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AG7_03D_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Ariana Grande Dance** yes, and?",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_B:1171195683894722601> yes, and?",
+            "era": "yes, and?",
+            "guess": "y _ _, _ _ d?",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2034/20340601/20340509_114652/9.png?format=original",
+            "song": "yes, and?",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AG7_03D_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Ariana Grande Dance** yes, and?",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_C:1171195686209978398> yes, and?",
+            "era": "yes, and?",
+            "guess": "y _ _, _ _ d?",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2034/20340601/20340509_114652/10.png?format=original",
+            "song": "yes, and?",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+    "AG7_03R_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Ariana Grande Rhythm** yes, and?",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_R:1171195690521743360> yes, and?",
+            "era": "yes, and?",
+            "guess": "y _ _, _ _ d?",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2034/20340601/20340509_114652/11.png?format=original",
+            "song": "yes, and?",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AG7_03R_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Ariana Grande Rhythm** yes, and?",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_S:1171197327185285201> yes, and?",
+            "era": "yes, and?",
+            "guess": "y _ _, _ _ d?",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2034/20340601/20340509_114652/12.png?format=original",
+            "song": "yes, and?",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AG7_03R_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Ariana Grande Rhythm** yes, and?",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_A:1171197331538980874> yes, and?",
+            "era": "yes, and?",
+            "guess": "y _ _, _ _ d?",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2034/20340601/20340509_114652/13.png?format=original",
+            "song": "yes, and?",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AG7_03R_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Ariana Grande Rhythm** yes, and?",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_B:1171195683894722601> yes, and?",
+            "era": "yes, and?",
+            "guess": "y _ _, _ _ d?",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2034/20340601/20340509_114652/14.png?format=original",
+            "song": "yes, and?",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AG7_03R_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Ariana Grande Rhythm** yes, and?",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_C:1171195686209978398> yes, and?",
+            "era": "yes, and?",
+            "guess": "y _ _, _ _ d?",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2034/20340601/20340509_114652/15.png?format=original",
+            "song": "yes, and?",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "AG7_04V_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Ariana Grande Vocal** bye",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_R:1171195690521743360> bye",
+            "era": "eternal sunshine",
+            "guess": "_ _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2044/20440601/20440509_114652/1.png?format=original",
+            "song": "bye",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AG7_04V_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Ariana Grande Vocal** bye",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_S:1171197327185285201> bye",
+            "era": "eternal sunshine",
+            "guess": "_ _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2044/20440601/20440509_114652/2.png?format=original",
+            "song": "bye",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AG7_04V_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Ariana Grande Vocal** bye",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_A:1171197331538980874> bye",
+            "era": "eternal sunshine",
+            "guess": "_ _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2044/20440601/20440509_114652/3.png?format=original",
+            "song": "bye",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AG7_04V_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Ariana Grande Vocal** bye",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_B:1171195683894722601> bye",
+            "era": "eternal sunshine",
+            "guess": "_ _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2044/20440601/20440509_114652/4.png?format=original",
+            "song": "bye",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AG7_04V_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Ariana Grande Vocal** bye",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_C:1171195686209978398> bye",
+            "era": "eternal sunshine",
+            "guess": "_ _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2044/20440601/20440509_114652/5.png?format=original",
+            "song": "bye",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+    "AG7_04D_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Ariana Grande Dance** bye",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_R:1171195690521743360> bye",
+            "era": "eternal sunshine",
+            "guess": "_ _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2044/20440601/20440509_114652/6.png?format=original",
+            "song": "bye",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AG7_04D_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Ariana Grande Dance** bye",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_S:1171197327185285201> bye",
+            "era": "eternal sunshine",
+            "guess": "_ _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2044/20440601/20440509_114652/7.png?format=original",
+            "song": "bye",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AG7_04D_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Ariana Grande Dance** bye",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_A:1171197331538980874> bye",
+            "era": "eternal sunshine",
+            "guess": "_ _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2044/20440601/20440509_114652/8.png?format=original",
+            "song": "bye",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AG7_04D_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Ariana Grande Dance** bye",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_B:1171195683894722601> bye",
+            "era": "eternal sunshine",
+            "guess": "_ _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2044/20440601/20440509_114652/9.png?format=original",
+            "song": "bye",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AG7_04D_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Ariana Grande Dance** bye",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_C:1171195686209978398> bye",
+            "era": "eternal sunshine",
+            "guess": "_ _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2044/20440601/20440509_114652/10.png?format=original",
+            "song": "bye",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+    "AG7_04R_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Ariana Grande Rhythm** bye",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_R:1171195690521743360> bye",
+            "era": "eternal sunshine",
+            "guess": "_ _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2044/20440601/20440509_114652/11.png?format=original",
+            "song": "bye",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AG7_04R_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Ariana Grande Rhythm** bye",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_S:1171197327185285201> bye",
+            "era": "eternal sunshine",
+            "guess": "_ _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2044/20440601/20440509_114652/12.png?format=original",
+            "song": "bye",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AG7_04R_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Ariana Grande Rhythm** bye",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_A:1171197331538980874> bye",
+            "era": "eternal sunshine",
+            "guess": "_ _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2044/20440601/20440509_114652/13.png?format=original",
+            "song": "bye",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AG7_04R_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Ariana Grande Rhythm** bye",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_B:1171195683894722601> bye",
+            "era": "eternal sunshine",
+            "guess": "_ _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2044/20440601/20440509_114652/14.png?format=original",
+            "song": "bye",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AG7_04R_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Ariana Grande Rhythm** bye",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_C:1171195686209978398> bye",
+            "era": "eternal sunshine",
+            "guess": "_ _ e",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2044/20440601/20440509_114652/15.png?format=original",
+            "song": "bye",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "AG7_05V_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Ariana Grande Vocal** true story",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_R:1171195690521743360> true story",
+            "era": "eternal sunshine",
+            "guess": "t _ _ _  _ _ o _ y",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2054/20540601/20540509_114652/1.png?format=original",
+            "song": "true story",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AG7_05V_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Ariana Grande Vocal** true story",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_S:1171197327185285201> true story",
+            "era": "eternal sunshine",
+            "guess": "t _ _ _  _ _ o _ y",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2054/20540601/20540509_114652/2.png?format=original",
+            "song": "true story",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AG7_05V_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Ariana Grande Vocal** true story",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_A:1171197331538980874> true story",
+            "era": "eternal sunshine",
+            "guess": "t _ _ _  _ _ o _ y",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2054/20540601/20540509_114652/3.png?format=original",
+            "song": "true story",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AG7_05V_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Ariana Grande Vocal** true story",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_B:1171195683894722601> true story",
+            "era": "eternal sunshine",
+            "guess": "t _ _ _  _ _ o _ y",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2054/20540601/20540509_114652/4.png?format=original",
+            "song": "true story",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AG7_05V_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Ariana Grande Vocal** true story",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_C:1171195686209978398> true story",
+            "era": "eternal sunshine",
+            "guess": "t _ _ _  _ _ o _ y",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2054/20540601/20540509_114652/5.png?format=original",
+            "song": "true story",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+    "AG7_05D_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Ariana Grande Dance** true story",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_R:1171195690521743360> true story",
+            "era": "eternal sunshine",
+            "guess": "t _ _ _  _ _ o _ y",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2054/20540601/20540509_114652/6.png?format=original",
+            "song": "true story",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AG7_05D_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Ariana Grande Dance** true story",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_S:1171197327185285201> true story",
+            "era": "eternal sunshine",
+            "guess": "t _ _ _  _ _ o _ y",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2054/20540601/20540509_114652/7.png?format=original",
+            "song": "true story",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AG7_05D_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Ariana Grande Dance** true story",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_A:1171197331538980874> true story",
+            "era": "eternal sunshine",
+            "guess": "t _ _ _  _ _ o _ y",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2054/20540601/20540509_114652/8.png?format=original",
+            "song": "true story",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AG7_05D_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Ariana Grande Dance** true story",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_B:1171195683894722601> true story",
+            "era": "eternal sunshine",
+            "guess": "t _ _ _  _ _ o _ y",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2054/20540601/20540509_114652/9.png?format=original",
+            "song": "true story",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AG7_05D_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Ariana Grande Dance** true story",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_C:1171195686209978398> true story",
+            "era": "eternal sunshine",
+            "guess": "t _ _ _  _ _ o _ y",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2054/20540601/20540509_114652/10.png?format=original",
+            "song": "true story",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+    "AG7_05R_R": [
+        {
+            "name": "<:grade_R:1171195690521743360> **Ariana Grande Rhythm** true story",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_R:1171195690521743360> true story",
+            "era": "eternal sunshine",
+            "guess": "t _ _ _  _ _ o _ y",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2054/20540601/20540509_114652/11.png?format=original",
+            "song": "true story",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AG7_05R_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Ariana Grande Rhythm** true story",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_S:1171197327185285201> true story",
+            "era": "eternal sunshine",
+            "guess": "t _ _ _  _ _ o _ y",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2054/20540601/20540509_114652/12.png?format=original",
+            "song": "true story",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AG7_05R_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Ariana Grande Rhythm** true story",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_A:1171197331538980874> true story",
+            "era": "eternal sunshine",
+            "guess": "t _ _ _  _ _ o _ y",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2054/20540601/20540509_114652/13.png?format=original",
+            "song": "true story",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AG7_05R_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Ariana Grande Rhythm** true story",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_B:1171195683894722601> true story",
+            "era": "eternal sunshine",
+            "guess": "t _ _ _  _ _ o _ y",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2054/20540601/20540509_114652/14.png?format=original",
+            "song": "true story",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AG7_05R_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Ariana Grande Rhythm** true story",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_C:1171195686209978398> true story",
+            "era": "eternal sunshine",
+            "guess": "t _ _ _  _ _ o _ y",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2054/20540601/20540509_114652/15.png?format=original",
+            "song": "true story",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "AG7_06V_R": [
+        {
+            "name": "<:grade_R:1171195690621743360> **Ariana Grande Vocal** wait for your love",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_R:1171195690621743360> wait for your love",
+            "era": "eternal sunshine",
+            "guess": "w _ _ _  f _ _ _  y _ _ _ l _ _ _",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2064/20640601/20640609_114652/1.png?format=original",
+            "song": "wait for your love",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AG7_06V_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Ariana Grande Vocal** wait for your love",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_S:1171197327185285201> wait for your love",
+            "era": "eternal sunshine",
+            "guess": "w _ _ _  f _ _ _  y _ _ _ l _ _ _",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2064/20640601/20640609_114652/2.png?format=original",
+            "song": "wait for your love",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AG7_06V_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Ariana Grande Vocal** wait for your love",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_A:1171197331538980874> wait for your love",
+            "era": "eternal sunshine",
+            "guess": "w _ _ _  f _ _ _  y _ _ _ l _ _ _",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2064/20640601/20640609_114652/3.png?format=original",
+            "song": "wait for your love",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AG7_06V_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Ariana Grande Vocal** wait for your love",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_B:1171195683894722601> wait for your love",
+            "era": "eternal sunshine",
+            "guess": "w _ _ _  f _ _ _  y _ _ _ l _ _ _",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2064/20640601/20640609_114652/4.png?format=original",
+            "song": "wait for your love",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AG7_06V_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Ariana Grande Vocal** wait for your love",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_C:1171195686209978398> wait for your love",
+            "era": "eternal sunshine",
+            "guess": "w _ _ _  f _ _ _  y _ _ _ l _ _ _",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2064/20640601/20640609_114652/5.png?format=original",
+            "song": "wait for your love",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+    "AG7_06D_R": [
+        {
+            "name": "<:grade_R:1171195690621743360> **Ariana Grande Dance** wait for your love",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_R:1171195690621743360> wait for your love",
+            "era": "eternal sunshine",
+            "guess": "w _ _ _  f _ _ _  y _ _ _ l _ _ _",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2064/20640601/20640609_114652/6.png?format=original",
+            "song": "wait for your love",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AG7_06D_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Ariana Grande Dance** wait for your love",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_S:1171197327185285201> wait for your love",
+            "era": "eternal sunshine",
+            "guess": "w _ _ _  f _ _ _  y _ _ _ l _ _ _",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2064/20640601/20640609_114652/7.png?format=original",
+            "song": "wait for your love",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AG7_06D_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Ariana Grande Dance** wait for your love",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_A:1171197331538980874> wait for your love",
+            "era": "eternal sunshine",
+            "guess": "w _ _ _  f _ _ _  y _ _ _ l _ _ _",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2064/20640601/20640609_114652/8.png?format=original",
+            "song": "wait for your love",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AG7_06D_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Ariana Grande Dance** wait for your love",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_B:1171195683894722601> wait for your love",
+            "era": "eternal sunshine",
+            "guess": "w _ _ _  f _ _ _  y _ _ _ l _ _ _",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2064/20640601/20640609_114652/9.png?format=original",
+            "song": "wait for your love",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AG7_06D_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Ariana Grande Dance** wait for your love",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_C:1171195686209978398> wait for your love",
+            "era": "eternal sunshine",
+            "guess": "w _ _ _  f _ _ _  y _ _ _ l _ _ _",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2064/20640601/20640609_114652/10.png?format=original",
+            "song": "wait for your love",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+    "AG7_06R_R": [
+        {
+            "name": "<:grade_R:1171195690621743360> **Ariana Grande Rhythm** wait for your love",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_R:1171195690621743360> wait for your love",
+            "era": "eternal sunshine",
+            "guess": "w _ _ _  f _ _ _  y _ _ _ l _ _ _",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2064/20640601/20640609_114652/11.png?format=original",
+            "song": "wait for your love",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AG7_06R_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Ariana Grande Rhythm** wait for your love",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_S:1171197327185285201> wait for your love",
+            "era": "eternal sunshine",
+            "guess": "w _ _ _  f _ _ _  y _ _ _ l _ _ _",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2064/20640601/20640609_114652/12.png?format=original",
+            "song": "wait for your love",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AG7_06R_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Ariana Grande Rhythm** wait for your love",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_A:1171197331538980874> wait for your love",
+            "era": "eternal sunshine",
+            "guess": "w _ _ _  f _ _ _  y _ _ _ l _ _ _",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2064/20640601/20640609_114652/13.png?format=original",
+            "song": "wait for your love",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AG7_06R_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Ariana Grande Rhythm** wait for your love",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_B:1171195683894722601> wait for your love",
+            "era": "eternal sunshine",
+            "guess": "w _ _ _  f _ _ _  y _ _ _ l _ _ _",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2064/20640601/20640609_114652/14.png?format=original",
+            "song": "wait for your love",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AG7_06R_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Ariana Grande Rhythm** wait for your love",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_C:1171195686209978398> wait for your love",
+            "era": "eternal sunshine",
+            "guess": "w _ _ _  f _ _ _  y _ _ _ l _ _ _",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2064/20640601/20640609_114652/15.png?format=original",
+            "song": "wait for your love",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+
+    "AG7_07V_R": [
+        {
+            "name": "<:grade_R:1171195690621743360> **Ariana Grande Vocal** intro",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_R:1171195690621743360> intro",
+            "era": "eternal sunshine",
+            "guess": "i _ _ _ o",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240609_114652/1.png?format=original",
+            "song": "intro (end of the world)",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AG7_07V_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Ariana Grande Vocal** intro",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_S:1171197327185285201> intro",
+            "era": "eternal sunshine",
+            "guess": "i _ _ _ o",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240609_114652/2.png?format=original",
+            "song": "intro (end of the world)",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AG7_07V_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Ariana Grande Vocal** intro",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_A:1171197331538980874> intro",
+            "era": "eternal sunshine",
+            "guess": "i _ _ _ o",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240609_114652/3.png?format=original",
+            "song": "intro (end of the world)",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AG7_07V_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Ariana Grande Vocal** intro",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_B:1171195683894722601> intro",
+            "era": "eternal sunshine",
+            "guess": "i _ _ _ o",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240609_114652/4.png?format=original",
+            "song": "intro (end of the world)",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AG7_07V_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Ariana Grande Vocal** intro",
+            "label": "Ariana Grande Vocal",
+            "preview": "<:grade_C:1171195686209978398> intro",
+            "era": "eternal sunshine",
+            "guess": "i _ _ _ o",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240609_114652/5.png?format=original",
+            "song": "intro (end of the world)",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+    "AG7_07D_R": [
+        {
+            "name": "<:grade_R:1171195690621743360> **Ariana Grande Dance** intro",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_R:1171195690621743360> intro",
+            "era": "eternal sunshine",
+            "guess": "i _ _ _ o",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240609_114652/6.png?format=original",
+            "song": "intro (end of the world)",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AG7_07D_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Ariana Grande Dance** intro",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_S:1171197327185285201> intro",
+            "era": "eternal sunshine",
+            "guess": "i _ _ _ o",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240609_114652/7.png?format=original",
+            "song": "intro (end of the world)",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AG7_07D_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Ariana Grande Dance** intro",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_A:1171197331538980874> intro",
+            "era": "eternal sunshine",
+            "guess": "i _ _ _ o",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240609_114652/8.png?format=original",
+            "song": "intro (end of the world)",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AG7_07D_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Ariana Grande Dance** intro",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_B:1171195683894722601> intro",
+            "era": "eternal sunshine",
+            "guess": "i _ _ _ o",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240609_114652/9.png?format=original",
+            "song": "intro (end of the world)",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AG7_07D_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Ariana Grande Dance** intro",
+            "label": "Ariana Grande Dance",
+            "preview": "<:grade_C:1171195686209978398> intro",
+            "era": "eternal sunshine",
+            "guess": "i _ _ _ o",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240609_114652/10.png?format=original",
+            "song": "intro (end of the world)",
+            "min": "100",
+            "max": "200"
+        }
+    ],
+    "AG7_07R_R": [
+        {
+            "name": "<:grade_R:1171195690621743360> **Ariana Grande Rhythm** intro",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_R:1171195690621743360> intro",
+            "era": "eternal sunshine",
+            "guess": "i _ _ _ o",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240609_114652/11.png?format=original",
+            "song": "intro (end of the world)",
+            "min": "2500",
+            "max": "5000"
+        }
+    ],
+    "AG7_07R_S": [
+        {
+            "name": "<:grade_S:1171197327185285201> **Ariana Grande Rhythm** intro",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_S:1171197327185285201> intro",
+            "era": "eternal sunshine",
+            "guess": "i _ _ _ o",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240609_114652/12.png?format=original",
+            "song": "intro (end of the world)",
+            "min": "1200",
+            "max": "2000"
+        }
+    ],
+    "AG7_07R_A": [
+        {
+            "name": "<:grade_A:1171197331538980874> **Ariana Grande Rhythm** intro",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_A:1171197331538980874> intro",
+            "era": "eternal sunshine",
+            "guess": "i _ _ _ o",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240609_114652/13.png?format=original",
+            "song": "intro (end of the world)",
+            "min": "400",
+            "max": "800"
+        }
+    ],
+    "AG7_07R_B": [
+        {
+            "name": "<:grade_B:1171195683894722601> **Ariana Grande Rhythm** intro",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_B:1171195683894722601> intro",
+            "era": "eternal sunshine",
+            "guess": "i _ _ _ o",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240609_114652/14.png?format=original",
+            "song": "intro (end of the world)",
+            "min": "200",
+            "max": "400"
+        }
+    ],
+    "AG7_07R_C": [
+        {
+            "name": "<:grade_C:1171195686209978398> **Ariana Grande Rhythm** intro",
+            "label": "Ariana Grande Rhythm",
+            "preview": "<:grade_C:1171195686209978398> intro",
+            "era": "eternal sunshine",
+            "guess": "i _ _ _ o",
+            "image": "https://ik.imagekit.io/ssag/resources/live/2024/20240601/20240609_114652/15.png?format=original",
+            "song": "intro (end of the world)",
+            "min": "100",
+            "max": "200"
+        }
     ]
+
+    
+    
 }
